@@ -10,11 +10,11 @@
 //
 // console.log(nameLast, userBirthday);
 
-var firstName = prompt('Whats your first name');
+let firstName = prompt('Whats your first name');
 console.log(firstName);
 
-var lastName = prompt('Whats your last name');
+let lastName = prompt('Whats your last name');
 alert(lastName);
 
-var birthday = prompt('Whats your birthday');
-var birthdayCorrect = confirm(`Is ${birthday} your birthday`);
+let birthday = prompt('Whats your birthday');
+let birthdayCorrect = confirm(`Is ${birthday} your birthday`);
