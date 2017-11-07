@@ -16,5 +16,5 @@ console.log(firstName);
 let lastName = prompt('Whats your last name');
 alert(lastName);
 
-let birthday = prompt('Whats your birthday');
-let birthdayCorrect = confirm(`Is ${birthday} your birthday`);
+let birthday = prompt('Whats your birthday', '12/12/12');
+let isBirthdayCorrect = confirm(`Is ${birthday} your birthday`);
