@@ -18,3 +18,5 @@ alert(lastName);
 
 let birthday = prompt('Whats your birthday', '12/12/12');
 let isBirthdayCorrect = confirm(`Is ${birthday} your birthday`);
+// Assumimg user said "yes"
+alert(birthday);
