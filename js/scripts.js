@@ -1,2 +1,13 @@
-var message = "I hope to learn javascript in this class, then take the angular class. I would also like so learn react.js, because I am interested in builiding ios applications";
-console.log(message);
+var number = 1;
+function square(number) {
+  return number * number;
+} if (number = '') {
+  alert(NaN);
+  prompt('Please give another answer, that one doesnt work!')
+}
+
+function capitalize() {
+  charAt(1).toUpperCase;
+} if (charAt(.) = NaN) {
+  return (. + 1);
+}
